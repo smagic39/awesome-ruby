@@ -516,7 +516,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) - Upload files securely.
 * [Refile](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
 * [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby
-* [attache](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns: https://attache-demo.herokuapp.com.
+* [attache](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns:https://attache-demo.herokuapp.com.
 
 ## Form Builder
 
@@ -1164,28 +1164,28 @@ Where to discover new Ruby libraries, projects and trends.
 
 # Other Awesome Lists
 # smagic39
-* [bluestout.com]  http://bluestout.com/blog/magento-vs-spree-best-ecommerce-platform/
-* [www.netguru.co]  https://www.netguru.co/blog/most-loved-ruby-on-rails-open-source
-* [www.codeschool.com]  https://www.codeschool.com/
-* [code.tutsplus.com]  http://code.tutsplus.com/tutorials/the-intro-to-rails-screencast-i-wish-i-had--net-22191
-* [railscasts.com]  http://railscasts.com/
-* [www.youtube.com]  https://www.youtube.com/watch?v=QM5iaT6Oas4
-* [www.tapchilaptrinh.com]  http://www.tapchilaptrinh.com/tutorial-ruby-bai-1.html
-* [www.ruby-lang.org]  https://www.ruby-lang.org/vi/documentation/quickstart/
-* [webcache.googleusercontent.com]  http://webcache.googleusercontent.com/search?q=cache:rmdQpZQkeqoJ:notes.viphat.work/toi-da-bat-dau-hoc-ruby-nhu-the-nao/+&cd=5&hl=en&ct=clnk
-* [vozforums.com]  https://vozforums.com/showthread.php?p=79823964
-* [rvm.io]  https://rvm.io/
-* [www.youtube.com]  https://www.youtube.com/watch?v=mtcN2GG-6Vw&index=2&list=PL617993859C966201
-* [rails-guides.rubygirls.org.vn]  http://rails-guides.rubygirls.org.vn/
-* [www.thinkful.com]  http://www.thinkful.com/learn/ruby-on-rails-tutorial/#Migrations
-* [tranthanhepu.com]  http://tranthanhepu.com/135/ror-xay-dung-website-bang-ruby-rails-phan-1
-* [www.railstutorial.org]  https://www.railstutorial.org/
-* [blog.teamtreehouse.com]  http://blog.teamtreehouse.com/static-pages-ruby-rails
-* [pchm.co]  http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/
-* [en.wikipedia.org]  https://en.wikipedia.org/wiki/Ruby_%28programming_language%29
-* [www.tutorialspoint.com]  http://www.tutorialspoint.com/ruby-on-rails/
-* [www.opensourcerails.com]  http://www.opensourcerails.com/
-* [tuannguyen68.gitbooks.io]  https://tuannguyen68.gitbooks.io/ror-beginner/content/CHAPTER2.html
-* [www.youtube.com]  https://www.youtube.com/watch?v=Ze5igcwUENU&list=PL617993859C966201
+* [bluestout.com]  (http://bluestout.com/blog/magento-vs-spree-best-ecommerce-platform/) bluestout.com/blog/magento-vs-spree-best-ecommerce-platform/
+* [www.netguru.co]  (https://www.netguru.co/blog/most-loved-ruby-on-rails-open-source)www.netguru.co/blog/most-loved-ruby-on-rails-open-source
+* [www.codeschool.com]  (https://www.codeschool.com/)www.codeschool.com/
+* [code.tutsplus.com]  (http://code.tutsplus.com/tutorials/the-intro-to-rails-screencast-i-wish-i-had--net-22191) code.tutsplus.com/tutorials/the-intro-to-rails-screencast-i-wish-i-had--net-22191
+* [railscasts.com]  (http://railscasts.com/) railscasts.com/
+* [www.youtube.com]  (https://www.youtube.com/watch?v=QM5iaT6Oas4)www.youtube.com/watch?v=QM5iaT6Oas4
+* [www.tapchilaptrinh.com]  (http://www.tapchilaptrinh.com/tutorial-ruby-bai-1.html) www.tapchilaptrinh.com/tutorial-ruby-bai-1.html
+* [www.ruby-lang.org]  (https://www.ruby-lang.org/vi/documentation/quickstart/)www.ruby-lang.org/vi/documentation/quickstart/
+* [webcache.googleusercontent.com]  (http://webcache.googleusercontent.com/search?q=cache:rmdQpZQkeqoJ:notes.viphat.work/) webcache.googleusercontent.com/search?q=cache:rmdQpZQkeqoJ:notes.viphat.work/toi-da-bat-dau-hoc-ruby-nhu-the-nao/+&cd=5&hl=en&ct=clnk
+* [vozforums.com]  (https://vozforums.com/showthread.php?p=79823964)vozforums.com/showthread.php?p=79823964
+* [rvm.io]  (https://rvm.io/)rvm.io/
+* [www.youtube.com]  (https://www.youtube.com/watch?v=mtcN2GG-6Vw&index=2&list=PL617993859C966201)www.youtube.com/watch?v=mtcN2GG-6Vw&index=2&list=PL617993859C966201
+* [rails-guides.rubygirls.org.vn]  (http://rails-guides.rubygirls.org.vn/) rails-guides.rubygirls.org.vn/
+* [www.thinkful.com]  (http://www.thinkful.com/learn/ruby-on-rails-tutorial/#Migrations) www.thinkful.com/learn/ruby-on-rails-tutorial/#Migrations
+* [tranthanhepu.com]  (http://tranthanhepu.com/135/ror-xay-dung-website-bang-ruby-rails-phan-1) tranthanhepu.com/135/ror-xay-dung-website-bang-ruby-rails-phan-1
+* [www.railstutorial.org]  (https://www.railstutorial.org/)www.railstutorial.org/
+* [blog.teamtreehouse.com]  (http://blog.teamtreehouse.com/static-pages-ruby-rails) blog.teamtreehouse.com/static-pages-ruby-rails
+* [pchm.co]  (http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/) pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/
+* [en.wikipedia.org]  (https://en.wikipedia.org/wiki/Ruby_%28programming_language%29)en.wikipedia.org/wiki/Ruby_%28programming_language%29
+* [www.tutorialspoint.com]  (http://www.tutorialspoint.com/ruby-on-rails/) www.tutorialspoint.com/ruby-on-rails/
+* [www.opensourcerails.com]  (http://www.opensourcerails.com/) www.opensourcerails.com/
+* [tuannguyen68.gitbooks.io]  (https://tuannguyen68.gitbooks.io/ror-beginner/content/CHAPTER2.html) tuannguyen68.gitbooks.io/ror-beginner/content/CHAPTER2.html
+* [www.youtube.com]  (https://www.youtube.com/watch?v=Ze5igcwUENU&list=PL617993859C966201)www.youtube.com/watch?v=Ze5igcwUENU&list=PL617993859C966201
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
