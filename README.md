@@ -1186,6 +1186,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [www.tutorialspoint.com]  (http://www.tutorialspoint.com/ruby-on-rails/) ==> www.tutorialspoint.com/ruby-on-rails/
 * [www.opensourcerails.com]  (http://www.opensourcerails.com/) ==> www.opensourcerails.com/
 * [tuannguyen68.gitbooks.io]  (https://tuannguyen68.gitbooks.io/ror-beginner/content/CHAPTER2.html) ==> tuannguyen68.gitbooks.io/ror-beginner/content/CHAPTER2.html
-* [www.youtube.com]  (https://www.youtube.com/watch?v=Ze5igcwUENU&list=PL617993859C966201)www.youtube.com/watch?v=Ze5igcwUENU&list=PL617993859C966201
+* [www.youtube.com]  (https://www.youtube.com/watch?v=Ze5igcwUENU&list=PL617993859C966201) ==>  www.youtube.com/watch?v=Ze5igcwUENU&list=PL617993859C966201
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
